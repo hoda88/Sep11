@@ -66,7 +66,8 @@ elmo-hikes/
 
 
 ## Contributors
-- **COMP1800e** - This is the change
+- **COMP1800** - This is the new change change
+-This is the test2
 
 ---
 
