@@ -66,6 +66,7 @@ elmo-hikes/
 
 
 ## Contributors
+- **Hoda** - this is from hoda88 account
 - **Your Name** - BCIT CST Student with a passion for outdoor adventures and user-friendly applications. Fun fact: Loves solving Rubik's Cubes in under a minute.
 
 
